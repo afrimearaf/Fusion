@@ -1,1 +1,5 @@
-# Fusion
+# <h1>Fusion</h1>
+### <h3>Fusion | Digital Marketing StartUp Website<h3>
+  
+#### <p>FUSION is a powerful startup company website template that will help you getting your business up and running quickly. With a better brand image, you can increase your possibilities and attract more customers. You now have a top-notch, responsive, and simple-to-use site framework thanks to FUSION. In many cases, you'll want to utilize this tool just as it is. Of course, take control of the situation and customize the default appearance.</p>
+#### <p>Sliders, animated skill bars, animated record counter, sticky navigation, back-to-top button, and social networking icons are just a few of Fusion's numerous features. The design also includes a pre-made Introductory video, portfolio gallery, blog area, contact form, and testimonial feature. Start with Fusion immediately if you're ready to take your startup to the next level. Fusion is a completely responsive, cross-browser interoperable website, which is one of the most important features to mention.</p>
